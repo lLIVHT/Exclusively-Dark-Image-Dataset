@@ -45,7 +45,8 @@ The codes are implemented in MATLAB using the prior version of [MatConvNet](http
    
    (for problems installing the toolbox, please refer to [MatConvNet](http://www.vlfeat.org/matconvnet/))
 
-3. Run demo.m
+3. Run GPR_v1.1/startup.m
+4. Run demo.m
 
 ## Feedback
 Suggestions and opinions of this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
